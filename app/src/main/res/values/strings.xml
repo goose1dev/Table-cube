@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Cube</string>
+    <string name="roll">Roll</string>
+    <string name="textRoll">You need to press the button and you will get the result of the table cube</string>
+    <string name="todo">TODO</string>
+</resources>
